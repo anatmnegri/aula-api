@@ -1,12 +1,86 @@
-[
     {
-        "id": 1,
-        "nomeDoLanche": "hamburguer",
-        "favorito": true
-    },
-    {
-        "id": 1,
-        "nomeDoLanche": "hamburguer",
-        "favorito": true
+        "bordados":
+       
+        [
+            {
+                "id": 1,
+                "cliente": "Luiza",
+                "tamanhoBordado": "16cm",
+                "tipoBordado": "releitura",
+                "frase": true,
+                "adorno": true
+            },
+            {
+                "id": 2,
+                "cliente": "Renata",
+                "tamanhoBordado": "20cm",
+                "tipoBordado": "releitura",
+                "frase": true,
+                "adorno": false
+            },
+            {
+                "id": 3,
+                "cliente": "Lucas",
+                "tamanhoBordado": "20cm",
+                "tipoBordado": "mapa",
+                "frase": true,
+                "adorno": false
+            },
+            {
+                "id": 4,
+                "cliente": "Vinicius",
+                "tamanhoBordado": "12cm",
+                "tipoBordado": "pet",
+                "frase": false,
+                "adorno": false
+            },
+            {
+                "id": 5,
+                "cliente": "Beatriz",
+                "tamanhoBordado": "20cm",
+                "tipoBordado": "releitura",
+                "frase": true,
+                "adorno": true
+            },
+            {
+                "id": 6,
+                "cliente": "Kato",
+                "tamanhoBordado": "12cm",
+                "tipoBordado": "releitura interativa",
+                "frase": false,
+                "adorno": false
+            },
+            {
+                "id": 7,
+                "cliente": "Maria José",
+                "tamanhoBordado": "16cm",
+                "tipoBordado": "mapa",
+                "frase": true,
+                "adorno": false
+            },
+            {
+                "id": 8,
+                "cliente": "Eduardo",
+                "tamanhoBordado": "16cm",
+                "tipoBordado": "releitura",
+                "frase": true,
+                "adorno": true
+            },
+            {
+                "id": 9,
+                "cliente": "Paulo",
+                "tamanhoBordado": "12cm",
+                "tipoBordado": "pet",
+                "frase": false,
+                "adorno": true
+            },
+            {
+                "id": 10,
+                "cliente": "Anne",
+                "tamanhoBordado": "20cm",
+                "tipoBordado": "releitura",
+                "frase": true,
+                "adorno": false
+            }
+        ]
     }
-]
