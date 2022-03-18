@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "aula-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatmnegri/aula-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anatmnegri/aula-api/issues"
+  },
+  "homepage": "https://github.com/anatmnegri/aula-api#readme",
+  "description": ""
+}
